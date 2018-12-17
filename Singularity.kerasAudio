@@ -21,16 +21,16 @@ pip3 install --upgrade keras
 
 	
 pip3 install \
-     jupyter \
-     matplotlib \
-     seaborn	\
-     Image \
-     scikit-learn \
-     lxml \
-	 joblib \
-	 h5py \
-	 python_speech_features \
-	 sox \
-	 librosa \
-	 PyAudio \
-	 SpeechRecognition  \
+	jupyter \
+	matplotlib \
+	seaborn	\
+	Image \
+	scikit-learn \
+	lxml \
+	joblib \
+	h5py \
+	python_speech_features \
+	sox \
+	librosa \
+	PyAudio \
+	SpeechRecognition  \
